@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    /* Set A4 size for printing */
+    height: 297mm;
+    width: 210mm;
+}
